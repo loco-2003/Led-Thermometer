@@ -73,9 +73,8 @@ As temperature increases, the voltage output of the LM35 rises. The LM3915 light
 ## 📚 References
 
 1. [Wikipedia](https://www.wikipedia.org)
-2. ChatGPT by OpenAI
-3. [Instructables](https://www.instructables.com/)
-4. [Circuit Digest](https://circuitdigest.com/)
+2. [Instructables](https://www.instructables.com/)
+3. [Circuit Digest](https://circuitdigest.com/)
 
 ---
 
