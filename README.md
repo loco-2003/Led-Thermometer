@@ -85,10 +85,10 @@ As temperature increases, the voltage output of the LM35 rises. The LM3915 light
 - **Keerthana N** 
 - **K U Devika** 
 
-**Guide**:Ms.Binu
+**Guide**:Ms. Binu 
 **Department**: Electronics and Communication Engineering  
 **Institution**: NSS College of Engineering, Palakkad  
-**University**: APJ Abdul Kalam Technological University  
+**University**: APJ Abdul Kalam Technological University 
 
 ---
 ## 📜 License
